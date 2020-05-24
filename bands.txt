@@ -1,0 +1,6 @@
+"tim",200
+"raj",300
+"ravi",400
+"tsadsim",500
+"mukil",600
+"ftib",700
